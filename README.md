@@ -1,40 +1,77 @@
 #Updated 31.03.2026
+
 #Appodeal
+
 appodeal.com, 141824, DIRECT
+
 #BidMachine
+
 bidmachine.io,1,DIRECT
+
 bidmachine.io,466,DIRECT
+
 #AdMob
+
 #Replace the Publisher_ID below with your Admob Publisher ID
+
 google.com, Publisher_ID, DIRECT, f08c47fec0942fa0
+
 #Meta-Audience
+
 #Replace the Business_ID below with your Meta Business ID
+
 facebook.com,Business_ID,RESELLER,c3e20eee3f780d68
+
 #Add other networks if applicable
+
 #Resellers
+
 152media.info, 152M312, RESELLER
+
 152media.info, 152M499, RESELLER
+
 152media.info,152M1093,RESELLER
+
 152media.info,152M1133,RESELLER
+
 152media.info,152M1134,RESELLER
+
 152media.info,152M698,RESELLER
+
 33across.com, 001Pg00000LoMyvIAF, RESELLER, bbea06d9c4d2853c
+
 33across.com,0010b00002dVKxbAAG,RESELLER,bbea06d9c4d2853c
+
 33across.com,0010b00002MptSLAAZ,RESELLER,bbea06d9c4d2853c
+
 33across.com,0010b00002Xbn7QAAR,RESELLER,bbea06d9c4d2853c
+
 33across.com,0015a00002egvRSAAY,RESELLER,bbea06d9c4d2853c
+
 33across.com,0015a00003DKg9ZAAT,RESELLER,bbea06d9c4d2853c
+
 33across.com,001Pg000017QEh7IAG,RESELLER,bbea06d9c4d2853c
+
 33across.com,001Pg0000197KcKIAU,RESELLER,bbea06d9c4d2853c
+
 33across.com,001Pg000019IbWWIA0,RESELLER,bbea06d9c4d2853c
+
 33across.com,001Pg00001BT7yYIAT,RESELLER,bbea06d9c4d2853c
+
 33across.com,001Pg00001EvjctIAB,RESELLER,bbea06d9c4d2853c
+
 9dotsmedia.com,122262,RESELLER,45ff185b4c4e857d
+
 acd.op.hicloud.com, PUB_HW_1003, RESELLER
+
 aceex.io, 1926, RESELLER, b1cf3c874d5c6682
+
 aceex.io, 6, RESELLER
+
 aceex.io,2078,RESELLER
+
 acexchange.co.kr, 1288659831, RESELLER
+
 acexchange.co.kr, 1416775282, RESELLER
 
 acexchange.co.kr,1317287336,RESELLER
